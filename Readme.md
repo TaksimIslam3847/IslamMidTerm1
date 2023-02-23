@@ -8,6 +8,6 @@ Minimum android required is API 28:Android 9 (Pie)
 
 
 Github project link:
-https://github.com/TaksimIslam3847/IslamMidTerm1
+https://github.com/TaksimIslam3847/IslamMidTerm1.git
 
 
